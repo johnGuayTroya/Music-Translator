@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:IMGUIContainer name="Menu" style="background-color: rgba(255, 255, 255, 255); position: absolute; height: 532px; width: 564px; top: 96px; left: 240px; justify-content: center;">
+        <ui:IMGUIContainer style="position: absolute; height: 472px; width: 499px; background-color: rgba(188, 188, 188, 255); top: 31px; left: 28px;" />
+        <ui:Button text="New File" name="btn_NewFile" style="width: 236px; position: absolute; top: 296px; left: 154px; color: rgba(0, 0, 0, 255); background-color: rgba(255, 255, 255, 255); font-size: 40px; -unity-font-style: bold; -unity-font: url(&apos;Library/unity default resources&apos;); justify-content: center; align-items: center;" />
+        <ui:Button text="Exit" name="btn_Exit" style="position: absolute; top: 391px; left: 157px; width: 236px; color: rgba(0, 0, 0, 255); background-color: rgba(255, 255, 255, 255); height: 56px; font-size: 40px; -unity-font-style: bold; -unity-font: url(&apos;Library/unity default resources&apos;);" />
+        <ui:Label text="MUSIC&#10;TRANSLATOR&#10;V55" name="LBL_TITLE" style="position: absolute; width: 276px; height: 82px; color: rgb(0, 0, 0); font-size: 25px; top: 152px; left: 135px; -unity-text-align: middle-center; justify-content: center; -unity-font-style: bold;" />
+        <ui:Label text="MUSIC&#10;TRANSLATOR&#10;V55" name="LBL_TITLE" style="position: absolute; width: 271px; height: 82px; color: rgba(255, 255, 255, 255); font-size: 25px; top: 150px; left: 139px; -unity-text-align: middle-center; justify-content: center; -unity-font-style: bold;" />
+    </ui:IMGUIContainer>
+</ui:UXML>
